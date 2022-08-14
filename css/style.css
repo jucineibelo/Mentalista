@@ -9,13 +9,16 @@ body {
   }
   
   .container {
+    text-shadow: 1px 1px 5px black;
+    color: #ffffff;
     text-align: center;
     padding: 20px;
     height: 100vh;
-    font-size: 30px;
+    font-size: 40px;
   }
   
   .page-title {
+    text-shadow: 1px 1px 5px black;
     color: #ffffff;
     margin: 0 0 5px;
   }
@@ -53,6 +56,8 @@ body {
     padding: 4px 8px;
     border-radius: 10px;
     background: #ffffff;
+    font-size: 60%;
+   
   }
   
   .resultado {
